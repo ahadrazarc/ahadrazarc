@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Abdul Ahad Raza</h1>
+
 I'm Abdul Ahad Raza, a passionate Software Engineer and Computer Vision enthusiast currently pursuing a Bachelor of Science in Computer Science at the National University of Modern Languages (NUML). With a strong background in software development and a keen interest in cutting-edge technologies, I am dedicated to leveraging my skills to drive innovation and solve complex challenges in the tech industry.
 
 Background and Education
@@ -7,6 +8,7 @@ My journey into the world of technology began with a fascination for programming
 
 Expertise and Interests
 One of my primary areas of expertise and passion is computer vision—a field at the intersection of computer science, machine learning, and image processing. I'm particularly intrigued by its applications in sectors like healthcare, autonomous vehicles, and security systems. My studies have focused on image recognition, object detection, and the implementation of deep learning algorithms to address real-world challenges.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadraza94&label=Profile%20views&color=0e75b6&style=flat" alt="ahadraza94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahadraza94&theme=gruvbox" alt="ahadraza94" /></a> </p>
