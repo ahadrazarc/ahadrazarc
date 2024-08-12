@@ -9,9 +9,9 @@ My journey into the world of technology began with a fascination for programming
 Expertise and Interests
 One of my primary areas of expertise and passion is computer vision—a field at the intersection of computer science, machine learning, and image processing. I'm particularly intrigued by its applications in sectors like healthcare, autonomous vehicles, and security systems. My studies have focused on image recognition, object detection, and the implementation of deep learning algorithms to address real-world challenges.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadraza94&label=Profile%20views&color=0e75b6&style=flat" alt="ahadraza94" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadraza94&label=Profile%20views&color=0e75b6&style=flat" alt="ahadrazarc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahadraza94&theme=gruvbox" alt="ahadraza94" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahadrazarc&theme=gruvbox" alt="ahadraza94" /></a> </p>
 
 <div> <a href="https://www.linkedin.com/in/ahadraza94" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/ahadraza94" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
