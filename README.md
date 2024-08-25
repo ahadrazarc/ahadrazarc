@@ -23,10 +23,10 @@
 <a target="_blank" href="https://www.instagram.com/ahadrazarc" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="undefinedahadrazadev" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://www.youtube.com/@ahadrazarc" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahadrazadev&show_icons=true&locale=en" alt="ahadrazarc" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahadrazadev&" alt="ahadrazarc" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahadrazadev&show_icons=true&locale=en&layout=compact" alt="ahadrazarc" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahadrazadev" alt="ahadrazarc" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahadrazarc&show_icons=true&locale=en" alt="ahadrazarc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahadrazarc&" alt="ahadrazarc" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahadrazarc&show_icons=true&locale=en&layout=compact" alt="ahadrazarc" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahadrazarc" alt="ahadrazarc" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/ahadrazarc">
