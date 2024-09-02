@@ -1,5 +1,5 @@
 <h2> About </h2>
-<p>As a devoted Software Engineer and Computer Vision Engineer, I am enthusiastic about crafting inventive solutions and pushing the boundaries of technology. With a solid background in software development and expertise in computer vision, I am dedicated to utilizing my abilities to propel advancements and participate in demanding projects. My objective is to apply my skills to solve intricate issues, make a significant difference, and thrive in the constantly evolving tech sector by embracing continuous learning and growth.
+<p>I'm Abdul Ahad Raza, a passionate Software Engineer and Computer Vision enthusiast currently pursuing a Bachelor of Science in Computer Science at the National University of Modern Languages (NUML). With a strong background in software development and a keen interest in cutting-edge technologies, I am dedicated to leveraging my skills to drive innovation and solve complex challenges in the tech industry.
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
