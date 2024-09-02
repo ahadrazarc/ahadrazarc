@@ -21,7 +21,6 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/ahadrazarc" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/ahadrazarc" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/ahadrazarc" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="undefinedahadrazadev" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://www.youtube.com/@ahadrazarc" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahadrazarc&show_icons=true&locale=en" alt="ahadrazarc" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahadrazarc&" alt="ahadrazarc" /></p>
