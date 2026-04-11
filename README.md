@@ -1,3 +1,5 @@
+<img width="1428" height="400" alt="image" src="https://github.com/user-attachments/assets/215eb2fd-135d-49da-b292-bfba6c8e75f6" />
+
 <div align="center">
 
 ### `Computer Vision Engineer`
