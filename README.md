@@ -36,7 +36,7 @@ I'm a Computer Vision Engineer based in Rawalpindi, Pakistan, focused on turning
 
 ## Technical Skills
 
-**Computer Vision**
+**Computer Vision (YOLO Architecture)**
 
 `Object Detection` `Image Segmentation` `Classification` `Oriented Bounding Boxes (OBB)` `Pose Estimation`
 
