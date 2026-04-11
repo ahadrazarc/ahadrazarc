@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### `Computer Vision Engineer`
-
 *Building intelligent systems that help machines see and understand the world*
 
 <br>
