@@ -20,7 +20,7 @@
 ##  About Me
 
 ```python
-abdul ahad raza = {
+{
     "name"      : "Abdul Ahad Raza",
     "location"  : "Rawalpindi, Pakistan 🇵🇰",
     "degree"    : "BS Computer Science — NUML (2021–2025)",
