@@ -25,7 +25,7 @@
     "location"  : "Rawalpindi, Pakistan 🇵🇰",
     "degree"    : "BS Computer Science — NUML (2021–2025)",
     "role"      : "Computer Vision Engineer",
-    "languages" : ["Python", "Kotlin", "Java", "C#", "C++"],
+    "languages" : ["Python", "Kotlin", "Java", "C#", "C++"]
 }
 ```
 
