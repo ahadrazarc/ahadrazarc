@@ -1,8 +1,8 @@
-<img width="1428" height="400" alt="image" src="https://github.com/user-attachments/assets/215eb2fd-135d-49da-b292-bfba6c8e75f6" />
+
+<img width="1584" height="396" alt="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner" src="https://github.com/user-attachments/assets/ef289bdf-9a8e-4cd2-9834-1d3f7bb67a38" />
 
 <div align="center">
 
-*Building intelligent systems that help machines see and understand the world*
 
 <br>
 
