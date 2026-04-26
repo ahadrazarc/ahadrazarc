@@ -15,15 +15,6 @@
 
 </div>
 
----
-
-##  About Me
-
-I'm a Computer Vision Engineer based in Rawalpindi, Pakistan, focused on turning cutting-edge CV architectures into deployable, high-performance solutions that work outside the lab.
-
-
----
-
 ## Technical Skills
 
 **Computer Vision (YOLO Architecture)**
