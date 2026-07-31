@@ -1,6 +1,3 @@
-
-<img width="1584" height="396" alt="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner" src="https://github.com/user-attachments/assets/ef289bdf-9a8e-4cd2-9834-1d3f7bb67a38" />
-
 <div align="center">
 
 
