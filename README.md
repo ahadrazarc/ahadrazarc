@@ -4,7 +4,7 @@
 
 ### Computer Vision Engineer
 
-I turn pixels into products — real-time detection, tracking, and pose pipelines running at 60+ FPS with sub-50ms latency, from research notebook to deployed app.
+I turn pixels into products real-time detection, tracking, and pose pipelines running at 60+ FPS with sub-50ms latency, from research notebook to deployed app.
 
 <br>
 
